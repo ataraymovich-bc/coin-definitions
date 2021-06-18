@@ -1,0 +1,8228 @@
+[
+  {
+    "symbol": "TUSD",
+    "name": "TrueUSD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LON",
+    "name": "Tokenlon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GST2",
+    "name": "Gastoken",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "ALCH",
+    "name": "Alchemy",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AMON",
+    "name": "AmonD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IPSX",
+    "name": "IPSX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DACC",
+    "name": "Decentralized Accessible Content Chain",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "STX",
+    "name": "Stox",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CTC",
+    "name": "CyberTronChain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ALBT",
+    "name": "AllianceBlock",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SKL",
+    "name": "Skale",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BEAR",
+    "name": " 3X Short Bitcoin Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "INX",
+    "name": "INMAX",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "PLA",
+    "name": "PlayChip",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UAT",
+    "name": "UltrAlpha token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DPP",
+    "name": "DA Power Play Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BFT",
+    "name": "BF Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UFT",
+    "name": "Unilend Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CZR",
+    "name": "CZR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ORN",
+    "name": "Orion Protocol",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BIRD",
+    "name": "BirdCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MDS",
+    "name": "MIDAS",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IDT",
+    "name": "InvestDigital Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LIKE",
+    "name": "LikeCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RRB",
+    "name": "RenrenBit Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CNTR",
+    "name": "Centaur Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GEX",
+    "name": "Globex",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BDT",
+    "name": "BDT Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STU",
+    "name": "Student Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LCX",
+    "name": "LCX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOND",
+    "name": "BarnBridge",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RAI",
+    "name": "Rai Reflex Index",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LID",
+    "name": "Liquidity Dividends Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZPAE",
+    "name": "ZPAY",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SRK",
+    "name": "SparkPoint",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SKM",
+    "name": "Skrumble Network V2",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLOT",
+    "name": "Fire Lotto",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HERB",
+    "name": "Herbalist Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "UMA",
+    "name": "UMA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRO",
+    "name": "CRO Decentralized Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FIN",
+    "name": "FIN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GUSD",
+    "name": "Gemini dollar",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "WPP",
+    "name": "WPPTOKEN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EDN",
+    "name": "Eden Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TOMOE",
+    "name": "TomoChain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SPX",
+    "name": "SP8DE Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ACE",
+    "name": "ACE Token",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "SAKE",
+    "name": "SAKE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTB",
+    "name": "BitBall",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BASE",
+    "name": "Base Protocol",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "1UP",
+    "name": "Uptrennd",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SUKU",
+    "name": "SUKU",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SOP",
+    "name": "SoPay",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SEAL",
+    "name": "SEALToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DLT",
+    "name": "Agrello",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BNANA",
+    "name": "Chimpion",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRPT",
+    "name": "Crypterium",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BCZ",
+    "name": "Becaz",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EDG",
+    "name": "Edgeless",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "RWS",
+    "name": "Robonomics Web Services",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XPT",
+    "name": "Cryptobuyer Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MATH",
+    "name": "MATH Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TNT",
+    "name": "Tierion",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "LND",
+    "name": "Lendingblock",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "INDEX",
+    "name": "Index",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LEVL",
+    "name": "Levolution.io Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NBOT",
+    "name": "Bodhi Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MIR",
+    "name": "MIR Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GRO",
+    "name": "Growth DeFi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DOS",
+    "name": "DOS Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FRD",
+    "name": "FARAD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MTX",
+    "name": "MatryxToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YAM",
+    "name": "YAM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DNT",
+    "name": "district0x Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STAKE",
+    "name": "xDai",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SLICE",
+    "name": "Tranche Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAX",
+    "name": "DAEX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ARNX",
+    "name": "Aeron",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MINT",
+    "name": "Public Mint Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DATA",
+    "name": "Streamr DATAcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTF",
+    "name": "BitPhantom Pro",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "J8T",
+    "name": "J8T Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BAT",
+    "name": "Basic Attention Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IQN",
+    "name": "iQeon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HAKKA",
+    "name": "Hakka Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ABYSS",
+    "name": "Abyss",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CPAY",
+    "name": "CPAY Token",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "PCL",
+    "name": "Peculium",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "LEV",
+    "name": "Leverj",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "MANA",
+    "name": "Decentraland",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "1SG",
+    "name": "1SG",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PUNDIX",
+    "name": "Pundi X",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LGO",
+    "name": "LGO Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CEN",
+    "name": "CEN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SWFTC",
+    "name": "SwftCoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "YFI",
+    "name": "yearn.finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BFC",
+    "name": "Bifrost",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GOLD",
+    "name": "Gold Storage",
+    "type": "ERC20",
+    "decimals": 3
+  },
+  {
+    "symbol": "CBUCKS",
+    "name": "CRYPTOBUCKS",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "AVT",
+    "name": "Avt",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "POE",
+    "name": "Po.et",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "YAM",
+    "name": "YAM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UNIFI",
+    "name": "UNIFI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAO",
+    "name": "DAO Maker",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XIO",
+    "name": "Blockzero Labs",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FMA",
+    "name": "Flama",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XMX",
+    "name": "XMAX",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "LAYER",
+    "name": "Unilayer",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TMTG",
+    "name": "The Midas Touch Gold",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BCV",
+    "name": "BitCapitalVendorToken",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "GVT",
+    "name": "Genesis Vision Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AIX",
+    "name": "Aigang",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SLINK",
+    "name": "Soft Link",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "UMX",
+    "name": "UMX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RAISE",
+    "name": "Raise",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DPT",
+    "name": "Diamond Platform Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "METH",
+    "name": "METH",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "1INCH",
+    "name": "1INCH Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CENNZ",
+    "name": "Centrality",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRE",
+    "name": "CarryToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CAPP",
+    "name": "Cappasity",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "MX",
+    "name": "MX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ITL",
+    "name": "ITL (Italian Lira)",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "AME",
+    "name": "AME Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GRID",
+    "name": "GRID",
+    "type": "ERC20",
+    "decimals": 12
+  },
+  {
+    "symbol": "VOX",
+    "name": "Vox Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GBX",
+    "name": "Globitex Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "EC",
+    "name": "Echoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IMT",
+    "name": "MoneyToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CUR",
+    "name": "CurToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ARMOR",
+    "name": "ARMOR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZOOT",
+    "name": "Zoo Token",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "BNT",
+    "name": "Binantex",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOUTS",
+    "name": "BoutsPro",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CTT",
+    "name": "CitexToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MCC",
+    "name": "MccCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KAN",
+    "name": "BitKan",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TEND",
+    "name": "TENDIES Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CHX",
+    "name": "Chainium",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GEO",
+    "name": "GeoDB Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DPI",
+    "name": "DeFi Pulse Index",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BETHER",
+    "name": "Bethereum",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FXP",
+    "name": "FXPay",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DEB",
+    "name": "DEBITUM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "B91",
+    "name": "B91Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STC",
+    "name": "Student Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GALA",
+    "name": "GALA",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "PAID",
+    "name": "PAID Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FKX",
+    "name": "KnoxsterCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KEX",
+    "name": "KIRA Network",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "ENQ",
+    "name": "Enecuum",
+    "type": "ERC20",
+    "decimals": 10
+  },
+  {
+    "symbol": "UTT",
+    "name": "United Traders Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "OWN",
+    "name": "OwnData",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ECOM",
+    "name": "Omnitude Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HUM",
+    "name": "Humanscape",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NMR",
+    "name": "Numeraire",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CDT",
+    "name": "Blox",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PMON",
+    "name": "Polkamon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SNB",
+    "name": "SynchroBitcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CCN",
+    "name": "CustomContractNetwork",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RVP",
+    "name": "Revolution Populi (RevPop)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CC10",
+    "name": "Cryptocurrency Top 10 Tokens Index",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FXT",
+    "name": "FuzeX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZB",
+    "name": "ZBToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AUDIO",
+    "name": "Audius",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ECO",
+    "name": "Ormeus Ecosystem",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BDG",
+    "name": "BitDegree Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NDX",
+    "name": "nDEX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RSV",
+    "name": "Reserve",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REP",
+    "name": "Augur",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FYZNFT",
+    "name": "Fyooz NFT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZFL",
+    "name": "Zuflo Coin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "EASY",
+    "name": "EasyPocket Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DEP",
+    "name": "DEAPCOIN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CTT",
+    "name": "CASTWEET",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BEST",
+    "name": "Bitpanda Ecosystem Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BQQQ",
+    "name": "BITSDAQ TOKEN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HQX",
+    "name": "HOQU Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PAR",
+    "name": "Parachute",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MATTER",
+    "name": "Antimatter.Finance Governance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOMB",
+    "name": "BOMB",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "TOWER",
+    "name": "TOWER Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FACE",
+    "name": "Faceter Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "THR",
+    "name": "ThoreCoin",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "TBT",
+    "name": "The Best Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EQZ",
+    "name": "Equalizer",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KIMCHI",
+    "name": "KIMCHI.finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XCLR",
+    "name": "ClearCoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MZK",
+    "name": "Muzika",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BNT",
+    "name": "Bancor",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STAK",
+    "name": "Jigstack",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FOR",
+    "name": "FOR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "APPC",
+    "name": "AppCoins",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BUGG",
+    "name": "Bugg Inu (BUGG)",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "VSP",
+    "name": "VesperToken (VSP)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TOPC",
+    "name": "TopChainCoin",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "BCPT",
+    "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "USDK",
+    "name": "USDK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TEAM",
+    "name": "TEAM",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "NFY",
+    "name": "Non-Fungible Yearn",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KP3R",
+    "name": "Keep3rV1",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WAVES",
+    "name": "WAVES",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GMB",
+    "name": "GMB",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BID",
+    "name": "DefiBids",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SPD",
+    "name": "SPINDLE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TESTA",
+    "name": "Testa",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BCDN",
+    "name": "BCDN",
+    "type": "ERC20",
+    "decimals": 15
+  },
+  {
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NOKU",
+    "name": "NOKU",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CGG",
+    "name": "ChainGuardians Governance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLASH",
+    "name": "Flashstake",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "APE",
+    "name": "APEcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SPN",
+    "name": "Sapien Token",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "CXC",
+    "name": "CoxxxCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FTO",
+    "name": "FTO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OVR",
+    "name": "OVR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MAG",
+    "name": "MageCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BRC",
+    "name": "Baer Chain",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CLV",
+    "name": "Clover",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CFX",
+    "name": "CRYPTOFOREX",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "PRO",
+    "name": "Propy",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "UNN",
+    "name": "UNION Protocol Governance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GSC",
+    "name": "Global Social Chain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FDZ",
+    "name": "Friendz Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CLR",
+    "name": "Color Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HNZO",
+    "name": "Hanzo Inu",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "SOCKS",
+    "name": "Unisocks Edition 0",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MAS",
+    "name": "MidasProtocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VIT",
+    "name": "Vice",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BANK",
+    "name": "Float BANK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ING",
+    "name": "IUNGO token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RDN",
+    "name": "Raiden Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BID",
+    "name": "Bidao",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PKT",
+    "name": "Playkey Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QUN",
+    "name": "QunQunCommunities",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DEXT",
+    "name": "DEXTools",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CBC",
+    "name": "Casino Betting Coin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DGVC",
+    "name": "DegenVC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "C20",
+    "name": "Crypto20",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CORX",
+    "name": "CorionX utility token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BSOCIAL",
+    "name": "BankSocial",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CELL",
+    "name": "CELL Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CHIHUA",
+    "name": "Chihua Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BORA",
+    "name": "BORA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AST",
+    "name": "AirSwap",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "ALEPH",
+    "name": "aleph.im ERC-20 v2",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EL",
+    "name": "ELYSIA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LEASH",
+    "name": "DOGE KILLER",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LED",
+    "name": "Terawatt LED Token",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "WAND",
+    "name": "Wand Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QQQ",
+    "name": "QQQ Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BPT",
+    "name": "Bitpayer Token",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "STACS",
+    "name": "STACS",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NPX",
+    "name": "NapoleonX Token",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "ETG",
+    "name": "\"\"",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "YFL",
+    "name": "YFLink",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XBP",
+    "name": "BlitzPick (XBP)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TOZ",
+    "name": "TOZEX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VALOR",
+    "name": "ValorToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PBR",
+    "name": "PolkaBridge",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CSNO",
+    "name": "BitDice",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "OUSD",
+    "name": "Origin Dollar (OUSD)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BPX",
+    "name": "BispexToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LEO",
+    "name": "UNUS SED LEO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TONE",
+    "name": "TE-FOOD/TustChain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WSCRT",
+    "name": "WSCRT",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "TAN",
+    "name": "Taklimakan",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ATB",
+    "name": "ATBank",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SXUT",
+    "name": "Spectre.ai U-Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VIB",
+    "name": "Viberate",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UBC",
+    "name": "UBCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OCC",
+    "name": "Occam.Fi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FREE",
+    "name": "Free Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WIZ",
+    "name": "CrowdWizToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TEMCO",
+    "name": "TEMCO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OWL",
+    "name": "OWL",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HEX",
+    "name": "HEX",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MAPS",
+    "name": "Maps.me",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "HSC",
+    "name": "HashCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SKIN",
+    "name": "SkinCoin",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "CREAM",
+    "name": "CREAM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ADB",
+    "name": "AdBank",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GLD",
+    "name": "REVI Gold",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SCHA",
+    "name": "Schain Wallet",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "DMT",
+    "name": "DMarket Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "SOC",
+    "name": "All Sports Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MTLX",
+    "name": "Mettalex",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFIM",
+    "name": "YFIM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BELA",
+    "name": "Bela",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FAT",
+    "name": "Fatcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZEE",
+    "name": "ZeroSwap",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REV",
+    "name": "Revain",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "LATX",
+    "name": "LatiumX",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ARAW",
+    "name": "ARAW",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PLA",
+    "name": "PLANET",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CORN",
+    "name": "popcorn",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SBTC",
+    "name": "SBTC",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "DEC",
+    "name": "Decentr",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XIOT",
+    "name": "XIOT",
+    "type": "ERC20",
+    "decimals": 3
+  },
+  {
+    "symbol": "FST",
+    "name": "1irst",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "COFI",
+    "name": "CoinFi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ATB",
+    "name": "ATBank",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RUNE",
+    "name": "THORChain ETH.RUNE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RAD",
+    "name": "Radicle",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EBC",
+    "name": "EBCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BPT",
+    "name": "Blockport Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRU",
+    "name": "CRUST",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KCASH",
+    "name": "Kcash",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AKITA",
+    "name": "Akita Inu (AKITA)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RAMP",
+    "name": "RAMP DEFI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PNC",
+    "name": "ProNet Coin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "VEE",
+    "name": "BLOCKv (VEE)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ETHM",
+    "name": "Ethereum Meta",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FXS",
+    "name": "Frax Share",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YOU",
+    "name": "YOU COIN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BAC",
+    "name": "Basis Cash",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BADGER",
+    "name": "Badger",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ELONGD",
+    "name": "Elongate Deluxe",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "WOZX",
+    "name": "Efforce",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SWM",
+    "name": "SWARM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CHZ",
+    "name": "Chiliz",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UUU",
+    "name": "UNetworkToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OM",
+    "name": "MANTRA DAO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DENT",
+    "name": "DENT",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BBN",
+    "name": "BBNToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EM",
+    "name": "EminerToken",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "PRQ",
+    "name": "PARSIQ",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ESD",
+    "name": "Empty Set Dollar",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AID",
+    "name": "AidCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VEST",
+    "name": "Vestchain",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DILI",
+    "name": "D Community",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MPAY",
+    "name": "MPAY",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KLEE",
+    "name": "Klee Kai",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "SAND",
+    "name": "The Sandbox",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "THETA",
+    "name": "Theta Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PHNX",
+    "name": "PhoenixDAO Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AMO",
+    "name": "AMO Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CVP",
+    "name": "Concentrated Voting Power",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BRX",
+    "name": "BerryX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TBX",
+    "name": "Tokenbox",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DREP",
+    "name": "DREP",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TOKEN",
+    "name": "ChainSwap.com Governance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FNSP",
+    "name": "Finswap",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DYNMT",
+    "name": "DYNAMITE",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "CVR",
+    "name": "PolkaCover",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OD",
+    "name": "Origin D",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ANK",
+    "name": "Apple Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "USDA",
+    "name": "USDA",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "VIDYA",
+    "name": "Vidya",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LTO",
+    "name": "LTO Network Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "LINA",
+    "name": "LINA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BUNNY",
+    "name": "Rocket Bunny",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "RTH",
+    "name": "Rotharium",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLP",
+    "name": "FLIP Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DSLA",
+    "name": "DSLA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ON",
+    "name": "Ofin Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ITAM",
+    "name": "ITAM Games",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XPN",
+    "name": "PANTHEON X",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ETK",
+    "name": "EnergiToken",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "BOR",
+    "name": "BoringDAO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RVT",
+    "name": "RvT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BAAS",
+    "name": "BaaSid",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SCOIN",
+    "name": "ShinCoin",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "MGO",
+    "name": "MobileGo Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "REN",
+    "name": "Ren",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OCN",
+    "name": "OCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XOR",
+    "name": "XOR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BIA",
+    "name": "Bilaxy Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SALT",
+    "name": "Salt",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "FTXT",
+    "name": "FUTURAX",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "FUN",
+    "name": "FunFair",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DRGN",
+    "name": "Dragon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MTN",
+    "name": "MedToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CVC",
+    "name": "Civic",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "GOT",
+    "name": "GoToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LOOM",
+    "name": "Loom Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MNE",
+    "name": "Minereum",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "FOTA",
+    "name": "FOTA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ALI",
+    "name": "AiLink Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UIP",
+    "name": "UnlimitedIP Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HOTCROSS",
+    "name": "Hot Cross Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PICKLE",
+    "name": "PICKLE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PLTC",
+    "name": "PlatonCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SPANK",
+    "name": "SPANK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CAP",
+    "name": "Cap",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DF",
+    "name": "\"\"",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OPT",
+    "name": "Opus Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RTE",
+    "name": "Rate3",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DODO",
+    "name": "DODO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ELTCOIN",
+    "name": "ELTCOIN",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "SOLVE",
+    "name": "SOLVE",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BKX",
+    "name": "\"\"\"BANKEX\"\" project utility token\"",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OXT",
+    "name": "Orchid",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFV",
+    "name": "YFValue",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ATN",
+    "name": "ATN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BREE",
+    "name": "CBDAO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KRL",
+    "name": "Kryll.io Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TEL",
+    "name": "Telcoin",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "PTT",
+    "name": "Proton Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YELD",
+    "name": "Yeld Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WOO",
+    "name": "WOO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLUX",
+    "name": "FLUX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FOUR",
+    "name": "The 4th Pillar Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UNO",
+    "name": "UnoRe",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SRM",
+    "name": "Serum",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "FNB",
+    "name": "FNB Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PXG",
+    "name": "PlayGame",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TCT",
+    "name": "TokenClub",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TIME",
+    "name": "ChronoTech TIME",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "GOM2",
+    "name": "GoMoney2",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "HAND",
+    "name": "ShowHand",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "REP",
+    "name": "0x52657075746174696f6e00000000000000000000000000000000000000000000",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CTSI",
+    "name": "Cartesi Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KTN",
+    "name": "Kattana",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FOAM",
+    "name": "FOAM Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "USDQ",
+    "name": "USDQ Stablecoin by Q DAO v1.0",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DEX",
+    "name": "DEX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTR",
+    "name": "Bitether",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OVC",
+    "name": "OVCODE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VALUE",
+    "name": "Value Liquidity",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZINC",
+    "name": "ZINC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "JUP",
+    "name": "Jupiter",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DISTX",
+    "name": "DISTX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRU",
+    "name": "TrueFi",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "PAINT",
+    "name": "Paint",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WIN",
+    "name": "WINSTEX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KEY",
+    "name": "KEY",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AION",
+    "name": "AION",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "WPR",
+    "name": "WePower Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MYST",
+    "name": "Mysterium",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PPBLZ",
+    "name": "Pepemon Pepeballs",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MINI",
+    "name": "MINI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AMB",
+    "name": "Ambrosus",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XAUR",
+    "name": "Xaurum",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CON",
+    "name": "CONUN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FTM",
+    "name": "Fantom Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EKT",
+    "name": "EKT",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MBN",
+    "name": "Membrana",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CELR",
+    "name": "CelerToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OPT",
+    "name": "OpenPredict",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QNT",
+    "name": "Quant",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SKB",
+    "name": "Sakura Bloom",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "SPRKL",
+    "name": "Sparkle Loyalty",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "HXRO",
+    "name": "Hxro Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFIII",
+    "name": "DiFy.Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ORAI",
+    "name": "Oraichain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STS",
+    "name": "SToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CAPT",
+    "name": "CAPT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NEXT",
+    "name": "NEXT.exchange",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MCB",
+    "name": "MCB",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "THRT",
+    "name": "ThriveToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DGX",
+    "name": "Digix Gold Token",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "GUM",
+    "name": "Gourmet Galaxy",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NU",
+    "name": "NuCypher (NU)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MORE",
+    "name": "Mithril Ore",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "BST",
+    "name": "Blocksquare",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RAZOR",
+    "name": "Razor Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LDC",
+    "name": "LEADCOIN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZDEX",
+    "name": "Zeedex",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MDA",
+    "name": "Moeda Loyalty Points",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TSHP",
+    "name": "12Ships",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PNT",
+    "name": "Penta Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SAM",
+    "name": "Samurai Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BLUE",
+    "name": "Ethereum Blue",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "INSUR",
+    "name": "InsurAce",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ANCT",
+    "name": "Anchor",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BART",
+    "name": "BarterTrade Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XYO",
+    "name": "XY Oracle",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DHT",
+    "name": "Dolphin Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REVV",
+    "name": "REVV",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "JUL",
+    "name": "JustLiquidity",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BRD",
+    "name": "Bread",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BITTO",
+    "name": "BITTO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DGX",
+    "name": "DigixGold",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "CAT",
+    "name": "CAT Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FTN",
+    "name": "Fountain 3",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IQC",
+    "name": "IQC Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BZRX",
+    "name": "bZx Protocol Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BLZ",
+    "name": "Bluzelle Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRUST",
+    "name": "TRUST DAO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LINKA",
+    "name": "LinkaToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XBX",
+    "name": "Bitex Global XBX Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VDG",
+    "name": "VeriDocGlobal",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "DAWN",
+    "name": "Dawn",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AIDOC",
+    "name": "AI Doctor",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HEGIC",
+    "name": "HEGIC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LGBTQ",
+    "name": "Pride",
+    "type": "ERC20",
+    "decimals": 1
+  },
+  {
+    "symbol": "COS",
+    "name": "Contentos",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LPT",
+    "name": "Livepeer Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HLC",
+    "name": "HalalChain",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "BDP",
+    "name": "BidiPass",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OBR",
+    "name": "Order of the Black Rose",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "POWR",
+    "name": "Power Ledger",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "QUSD",
+    "name": "QUSD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NKC",
+    "name": "NeworkCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VGX",
+    "name": "Voyager Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MAD",
+    "name": "MadNetwork",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAD",
+    "name": "DAD",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "ENTRP",
+    "name": "Hut34 Entropy Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XFI",
+    "name": "Xfinance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MXC",
+    "name": "MXCToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NKN",
+    "name": "NKN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NTK",
+    "name": "Netkoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "POP",
+    "name": "POP Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOND",
+    "name": "BOND",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ITC",
+    "name": "IOT on Chain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DEXTF",
+    "name": "DEXTF Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WAN",
+    "name": "WanCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MARSH",
+    "name": "MarshToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EVED",
+    "name": "Evedo Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DTH",
+    "name": "Dether",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BF",
+    "name": "BitForex Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOT",
+    "name": "Bounce Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STP",
+    "name": "STPAY",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GARD",
+    "name": "HASHGARD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EXY",
+    "name": "Experty Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "COT",
+    "name": "CoTrader",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DEV",
+    "name": "Dev",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MIX",
+    "name": "MixMarvel Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NCC",
+    "name": "NeuroChain Clausius",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PST",
+    "name": "Primas Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MYB",
+    "name": "MyBit",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DKA",
+    "name": "dKargo",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LOC",
+    "name": "LockChain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CAN",
+    "name": "Content and Ad Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LUSD",
+    "name": "LUSD Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PIE",
+    "name": "DeFiPIE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RLC",
+    "name": "iExec RLC",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "PCM",
+    "name": "Precium Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LEMO",
+    "name": "Lemo",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GET",
+    "name": "Themis",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LPOOL",
+    "name": "Launchpool",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QASH",
+    "name": "QASH",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "RSD",
+    "name": "Reference System for DeFi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PJM",
+    "name": "Pajama.Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AUTO",
+    "name": "CUBE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CORE",
+    "name": "cVault.finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLX",
+    "name": "Reflexer Ungovernance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SSP",
+    "name": "smartshare token",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "AIOZ",
+    "name": "AIOZ Network Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PEAK",
+    "name": "PEAK",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ADD",
+    "name": "ADD.xyz",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XTP",
+    "name": "Tap",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MPH",
+    "name": "Morpher Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CTC",
+    "name": "CTC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DGCL",
+    "name": "DigiCol Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOX",
+    "name": "BOX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GAME",
+    "name": "GAME Credits",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MWAT",
+    "name": "RED MWAT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OLT",
+    "name": "Oneledger Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IPL",
+    "name": "InsurePal token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TIME",
+    "name": "Chronobank TIME (EOL)",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MOF",
+    "name": "Molecular Future",
+    "type": "ERC20",
+    "decimals": 16
+  },
+  {
+    "symbol": "EGG",
+    "name": "Nestree",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ADL",
+    "name": "Adelphoi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MDS",
+    "name": "MediShares Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DOWS",
+    "name": "Shadows",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTSE",
+    "name": "BTSE Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "WINGS",
+    "name": "WINGS",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BNSD",
+    "name": "BNSD Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WISE",
+    "name": "WISE Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LMY",
+    "name": "Lunch Money",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UBEX",
+    "name": "UBEX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MFG",
+    "name": "SyncFab Smart Manufacturing Blockchain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZCC",
+    "name": "ZeroCarbon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "USDN",
+    "name": "USDN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CREED",
+    "name": "CREED",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YIELD",
+    "name": "YIELD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZAP",
+    "name": "ZAP TOKEN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TLN",
+    "name": "Trustlines Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KYL",
+    "name": "Kylin Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MARK",
+    "name": "Benchmark Protocol",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "PAR",
+    "name": "PAR Stablecoin (PAR)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GNO",
+    "name": "Gnosis",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RPZX",
+    "name": "Rapidz",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ONL",
+    "name": "On.Live",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AAB",
+    "name": "AAX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GAT",
+    "name": "GAT Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QCH",
+    "name": "QChi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "$BASED",
+    "name": "Based Money",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MSP",
+    "name": "Mothership Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SRN",
+    "name": "SIRIN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BNS",
+    "name": "BNS Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "QBC",
+    "name": "Qbean",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CHADS",
+    "name": "chads.vc",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "POOLZ",
+    "name": "$POOLZ finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NTK",
+    "name": "NeuroToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MASK",
+    "name": "Mask Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DTA",
+    "name": "Data Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "COIN",
+    "name": "Coinverter.info",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VNT",
+    "name": "VNTChain",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DAI",
+    "name": "Multi-collateral DAI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SUSHI",
+    "name": "Sushi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GEEQ",
+    "name": "Geeq",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LNC",
+    "name": "Linker Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FYZ",
+    "name": "Fyooz",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UP",
+    "name": "UpToken",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DPY",
+    "name": "Delphy Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BONK",
+    "name": "Bonk Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GENE",
+    "name": "GENE TOKEN (PARKGENE)",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "LQTY",
+    "name": "LQTY Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RNDR",
+    "name": "Render Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RKN",
+    "name": "RAKON",
+    "type": "ERC20",
+    "decimals": 12
+  },
+  {
+    "symbol": "CATT",
+    "name": "Catex",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GNX",
+    "name": "Genaro X",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "ODE",
+    "name": "ODE",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "TRADE",
+    "name": "UniTrade",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BLOC",
+    "name": "Blockcloud",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EUM",
+    "name": "Elitium",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BERRY",
+    "name": "Berry",
+    "type": "ERC20",
+    "decimals": 14
+  },
+  {
+    "symbol": "VLT",
+    "name": "Bankroll Vault",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QUICK",
+    "name": "QuickSwap",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PHA",
+    "name": "Phala",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HOT",
+    "name": "Holo",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QRX",
+    "name": "QuiverX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BIST",
+    "name": "Bistroo",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NORD",
+    "name": "Nord Finance (NORD)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HT",
+    "name": "Huobi Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NYE",
+    "name": "New York Exchange Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UMB",
+    "name": "Umbrella Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PROPS",
+    "name": "Props Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OAX",
+    "name": "openANX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BIRD",
+    "name": "Bird.Money (BIRD)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFOX",
+    "name": "YFOX.FINANCE",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "BIKI",
+    "name": "BIKICOIN TOKEN",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "XSGD",
+    "name": "XSGD",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "AXN",
+    "name": "Axion (AXN)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GC",
+    "name": "Gric Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CNUS",
+    "name": "CoinUs",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OCTO",
+    "name": "OctoFi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BMI",
+    "name": "Bridge Mutual",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EPAN",
+    "name": "Paypolitan Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRV",
+    "name": "TrustVerse",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PLOT",
+    "name": "PlotX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WRC",
+    "name": "Worldcore",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "MVI",
+    "name": "Metaverse Index",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SMARTCREDIT",
+    "name": "SMARTCREDIT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REC",
+    "name": "REC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "JGN",
+    "name": "JGNDeFi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AMN",
+    "name": "Amon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STRK",
+    "name": "Strike Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SNT",
+    "name": "Status",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOA",
+    "name": "BOSAGORA",
+    "type": "ERC20",
+    "decimals": 7
+  },
+  {
+    "symbol": "ERO",
+    "name": "EROSCOIN",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "HDAO",
+    "name": "HyperDao",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OKB",
+    "name": "OKB",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CO2",
+    "name": "Collective",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ELON",
+    "name": "Dogelon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BETR",
+    "name": "Better Betting",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XCAD",
+    "name": "XCAD Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DTX",
+    "name": "DaTa eXchange Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BBR",
+    "name": "BBR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RED",
+    "name": "Red Community Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PYLNT",
+    "name": "Pylon Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTD",
+    "name": "Bests Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TORN",
+    "name": "Tornado Cash",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLETA",
+    "name": "Fleta Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BRZE",
+    "name": "Breeze",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FORTH",
+    "name": "Ampleforth Governance (FORTH)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOXX",
+    "name": "Boxx",
+    "type": "ERC20",
+    "decimals": 15
+  },
+  {
+    "symbol": "SNTVT",
+    "name": "Sentivate",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PVT",
+    "name": "Pivot Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ATL",
+    "name": "ATLANT Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AIT",
+    "name": "AIT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HGET",
+    "name": "Hedget",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "DIGG",
+    "name": "Digg (DIGG)",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "HIT",
+    "name": "HitchainCoin",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "TFB",
+    "name": "TrueFeedBack",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BIZZ",
+    "name": "BizzCoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MRPH",
+    "name": "Morpheus.Network",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "OKS",
+    "name": "Okschain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SHOPX",
+    "name": "SPLYT SHOPX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SAN",
+    "name": "SANtiment network token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SHPING",
+    "name": "Shping Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MATIC",
+    "name": "Matic Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VXV",
+    "name": "VectorspaceAI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MEXC",
+    "name": "MEXC Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MAD",
+    "name": "MadCripto",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "DWZ",
+    "name": "DeFiWizard",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XTK",
+    "name": "xToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "10SET",
+    "name": "Tenset",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AAVE",
+    "name": "Aave",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WAXE",
+    "name": "WAXE",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "WIX",
+    "name": "Wixlar",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "COS",
+    "name": "COS",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CAG",
+    "name": "Change",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DARK",
+    "name": "DARK Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XRT",
+    "name": "Robonomics",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "MEET",
+    "name": "CoinMeet",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TAP",
+    "name": "Tapmydata",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LKR",
+    "name": "Polkalokr",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DEA",
+    "name": "DEA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LEND",
+    "name": "Aave",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DRG",
+    "name": "Dragon Coins",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MDT",
+    "name": "Measurable Data Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ALN",
+    "name": "Aluna Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RARE",
+    "name": "Rare",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "DAT",
+    "name": "Datum Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OGN",
+    "name": "Origin Token (OGN)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ANKR",
+    "name": "Ankr",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EXM",
+    "name": "EXMOCoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "GIG",
+    "name": "Krios/GIG",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REM",
+    "name": "REMME token",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "ZXC",
+    "name": "0xcert Protocol Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "POLS",
+    "name": "Polkastarter",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UBT",
+    "name": "Unibright",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "SHIH",
+    "name": "Shih Tzu",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CHONK",
+    "name": "CHONK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PMA",
+    "name": "PumaPay",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SGT",
+    "name": "SharedStake Governance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DIA",
+    "name": "DIA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BURN",
+    "name": "Blockburn",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FRAX",
+    "name": "Frax",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KEEP",
+    "name": "KEEP Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MOC",
+    "name": "Moss Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NDX",
+    "name": "Indexed Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRD",
+    "name": "CreditDefi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EOS",
+    "name": "EOS",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "INE",
+    "name": "IntelliShare Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CNN",
+    "name": "CNN Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UGAS",
+    "name": "UltrainGas",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "JET",
+    "name": "Jetcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RSR",
+    "name": "Reserve Rights",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTCE",
+    "name": "BTCERC-20",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "COIN",
+    "name": "Coin Artist",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SWAG",
+    "name": "Swag Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UQC",
+    "name": "Uquid Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SKRT",
+    "name": "Sekuritance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MPH",
+    "name": "88mph.app",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TLM",
+    "name": "Alien Worlds Trilium",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "DEGO",
+    "name": "Dego Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CPT",
+    "name": "Cryptaur",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "TRB",
+    "name": "Tellor",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BLOODY",
+    "name": "Bloody",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PNT",
+    "name": "pNetwork",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SAI",
+    "name": "Single Collateral DAI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFBETA",
+    "name": "yfBETA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CHR",
+    "name": "Chroma",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "ARI",
+    "name": "Denarii",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "JRT",
+    "name": "Jarvis Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AKRO",
+    "name": "Akropolis",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PTOY",
+    "name": "Patientory",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "AMM",
+    "name": "MicroMoney",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "PKF",
+    "name": "PolkaFoundry",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRIO",
+    "name": "Tripio Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SXP",
+    "name": "Swipe",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MB",
+    "name": "MineBee",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CBX",
+    "name": "Cybitex",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DVP",
+    "name": "Decentralized Vulnerability Platform",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PAX",
+    "name": "Paxos Standard",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PAYT",
+    "name": "PayAccept",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FYP",
+    "name": "Flyp.me Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FXF",
+    "name": "Finxflo",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MXX",
+    "name": "Multiplier Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "GET",
+    "name": "GET",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TOMO",
+    "name": "Tomocoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VI",
+    "name": "VI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FX",
+    "name": "Function X",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STOP",
+    "name": "SatoPay",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XLAB",
+    "name": "XCELTOKEN PLUS",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TBTC",
+    "name": "tBTC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DXT",
+    "name": "DataWallet Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "TUSD",
+    "name": "TrueUSD (OLD)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EGT",
+    "name": "Egretia",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AGI",
+    "name": "SingularityNET Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "TXL",
+    "name": "Tixl",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VERI",
+    "name": "Veritaseum",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REQ",
+    "name": "Request Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ECU",
+    "name": "ECOSCU",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MTC",
+    "name": "Medical Token Currency",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFFS",
+    "name": "yffs.finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UDT",
+    "name": "Unlock Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "X8X",
+    "name": "X8XToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PUSSY",
+    "name": "Pussy Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RVX",
+    "name": "RiveX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REAL",
+    "name": "Real Estate Asset Ledger",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YEE",
+    "name": "Yee - A Blockchain-powered & Cloud-based Social Ecosystem",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LIKE",
+    "name": "LikeApp",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "VLD",
+    "name": "VALID",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EVE",
+    "name": "Devery.io",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SWG",
+    "name": "Swirge coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAPS",
+    "name": "DAPSTOKEN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WHALE",
+    "name": "WHALE",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "GRUMPY",
+    "name": "Grumpy Finance",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "PNK",
+    "name": "Pinakion",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DUSK",
+    "name": "Dusk Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FTI",
+    "name": "FTI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MUNCH",
+    "name": "MUNCH Token",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "HYDRO",
+    "name": "Hydro Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RING",
+    "name": "Evolution Land Global Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MDX",
+    "name": "Mandala Exchange Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AMIS",
+    "name": "AMIS",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "YFTE",
+    "name": "Yftether.io",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LOCK",
+    "name": "Meridian Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CARD",
+    "name": "Cardstack",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FEI",
+    "name": "Fei",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ADN",
+    "name": "Aladdin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "APY",
+    "name": "APY.Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SHIB",
+    "name": "Shiba INU: The Dogecoin Killer",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DESH",
+    "name": "DeCash",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CBM",
+    "name": "CryptoBonusMiles",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ANT",
+    "name": "Aragon (old)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DYP",
+    "name": "DeFi Yield Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OCEAN",
+    "name": "Ocean Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NWC",
+    "name": "Newscrypto",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FUSE",
+    "name": "Fuse Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SPRK",
+    "name": "Sparkster",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DX",
+    "name": "DxChain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SNM",
+    "name": "SONM Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BMX",
+    "name": "BitMartToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STRONG",
+    "name": "Strong",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BANCA",
+    "name": "BANCA Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "POLY",
+    "name": "Polymath",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QSP",
+    "name": "Quantstamp Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HUNT",
+    "name": "HuntToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DRT",
+    "name": "DomRaiderToken",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "HOT",
+    "name": "Hydro Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SPI",
+    "name": "Shopping.io",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FAIR",
+    "name": "Fair Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TCH",
+    "name": "TigerCash",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GMR",
+    "name": "GimmerToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "COR",
+    "name": "Coreto",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "$ROPE",
+    "name": "ROPE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BQTX",
+    "name": "BqtX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NCT",
+    "name": "Nectar",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DELTA",
+    "name": "Delta Financial",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UNISTAKE",
+    "name": "Unistake",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NBC",
+    "name": "Niobium",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KTON",
+    "name": "Darwinia Commitment Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TTT",
+    "name": "Tapcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DDD",
+    "name": "ScryDddToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GLQ",
+    "name": "GraphLinq",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BAX",
+    "name": "Bax",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ABX",
+    "name": "ABX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AOA",
+    "name": "Aurora",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XSP",
+    "name": "XSwap Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RCC",
+    "name": "Reality Clash Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DOGY",
+    "name": "DogeYield",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LBK",
+    "name": "LBK",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DOKI",
+    "name": "DOKI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MNC",
+    "name": "MainCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MKR",
+    "name": "Maker",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GMB",
+    "name": "GMB",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AME",
+    "name": "Americoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CRO",
+    "name": "Crypto.com Coin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "GMAT",
+    "name": "GoWithMi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SENC",
+    "name": "Sentinel Chain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RFI",
+    "name": "reflect.finance",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "ATA",
+    "name": "Automata",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KISHU",
+    "name": "Kishu Inu (KISHU)",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "DACS",
+    "name": "DACSEE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ROOBEE",
+    "name": "ROOBEE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WXTZ",
+    "name": "WXTZ",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "USDS",
+    "name": "StableUSD",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "RBC",
+    "name": "RBC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TIME",
+    "name": "TimeMiner",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "CSP",
+    "name": "Caspian Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KORE",
+    "name": "KORE Vault",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KP4R",
+    "name": "Keep4r",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BEL",
+    "name": "Bella Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XIN",
+    "name": "Mixin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZIP",
+    "name": "Zipper",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AZ",
+    "name": "Azbit",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAC",
+    "name": "Davinci coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MANY",
+    "name": "MANY",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XFT",
+    "name": "Offshift",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "COV",
+    "name": "Covesting Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ADX",
+    "name": "AdEx",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YOP",
+    "name": "YOP",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "AERGO",
+    "name": "Aergo",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PMGT",
+    "name": "Perth Mint Gold Token",
+    "type": "ERC20",
+    "decimals": 5
+  },
+  {
+    "symbol": "EVC",
+    "name": "EVC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VRS",
+    "name": "Veros",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "BCDT",
+    "name": "Blockchain Certfied Data Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "S4F",
+    "name": "S4FE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BLANK",
+    "name": "Blank",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CARD",
+    "name": "Cardstack",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HMR",
+    "name": "HOMEROS",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZEFU",
+    "name": "Zenfuse",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LUA",
+    "name": "LuaToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WAIF",
+    "name": "Waifu",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZEN",
+    "name": "ZenFinance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BUT",
+    "name": "BitUP Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ONOT",
+    "name": "ONOT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "COVA",
+    "name": "Covalent Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XCHF",
+    "name": "CryptoFranc",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RPL",
+    "name": "Rocket Pool",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MAHA",
+    "name": "MahaDAO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VOCO",
+    "name": "Provoco Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FNK",
+    "name": "FNK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NEXO",
+    "name": "Nexo",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RRC",
+    "name": "RRChain",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "MCO",
+    "name": "Monaco",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "STORJ",
+    "name": "Storj",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "VRC",
+    "name": "Void Reserve Currency",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "INNBC",
+    "name": "InnovativeBioresearchCoin",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "DFT",
+    "name": "DeFiat",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SYNC",
+    "name": "SYNC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IDEX",
+    "name": "IDEX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GTC",
+    "name": "Game.com Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DEXG",
+    "name": "Dextoken Governance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SWRV",
+    "name": "Swerve",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ARDX",
+    "name": "ArdCoin",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "BNB",
+    "name": "BNB",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LOCK",
+    "name": "LOCK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PAY",
+    "name": "TenX Pay Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ABT",
+    "name": "ArcBlock",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XDB",
+    "name": "digitalbits",
+    "type": "ERC20",
+    "decimals": 7
+  },
+  {
+    "symbol": "K21",
+    "name": "K21",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SWT",
+    "name": "Swarm City Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BAND",
+    "name": "Band Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ARPA",
+    "name": "ARPA Chain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AXS",
+    "name": "Axie Infinity Shard",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAO",
+    "name": "TheDAO",
+    "type": "ERC20",
+    "decimals": 16
+  },
+  {
+    "symbol": "INX",
+    "name": "INX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LRC",
+    "name": "Loopring",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ERN",
+    "name": "Ethernity Chain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LXT",
+    "name": "LiteXToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XNK",
+    "name": "Ink Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DSD",
+    "name": "Dynamic Set Dollar",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SNOV",
+    "name": "Snovio",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EBK",
+    "name": "Ebakus",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WORLD",
+    "name": "World Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SWFL",
+    "name": "Swapfolio",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SOUL",
+    "name": "CryptoSoul",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SKULL",
+    "name": "Skull",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "ZB",
+    "name": "ZB Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WOM",
+    "name": "WOM Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CVT",
+    "name": "CyberVeinToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "USDX",
+    "name": "USDX",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "MOAR",
+    "name": "MOAR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IMT",
+    "name": "IMSMART",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "SNX",
+    "name": "Synthetix Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XSTAR",
+    "name": "StarDEX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HVN",
+    "name": "Hive Project Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DUCK",
+    "name": "DLP Duck Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KICK",
+    "name": "KickToken",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ROCK2",
+    "name": "ICE ROCK MINING",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "BITS",
+    "name": "Bitcoinus Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HOKK",
+    "name": "Hokkaidu Inu (HOKK)",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "BOSON",
+    "name": "BOSON Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CHAIN",
+    "name": "Chain Games",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZCX",
+    "name": "ZEN Exchange Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CNB",
+    "name": "Coinsbit Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PTF",
+    "name": "PowerTrade Fuel",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LOCUS",
+    "name": "Locus Chain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MKR",
+    "name": "MKR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLOW",
+    "name": "Flow Protocol",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "LEDU",
+    "name": "Education",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "COL",
+    "name": "Unit protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VIDY",
+    "name": "VidyCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BNK",
+    "name": "Banker Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "UPP",
+    "name": "SENTINEL PROTOCOL",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "APM",
+    "name": "APM Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NYAN",
+    "name": "NYAN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AMLT",
+    "name": "AMLT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SWAP",
+    "name": "TrustSwap Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SLP",
+    "name": "Smooth Love Potion",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "BUBO",
+    "name": "The Budbo Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HUR",
+    "name": "Hurify Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PIS",
+    "name": "PiSwap Token (PIS)",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BEPRO",
+    "name": "BEPRO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DICE",
+    "name": "DICE.FINANCE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "$ANRX",
+    "name": "AnRKey X",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ROOT",
+    "name": "ROOT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRST",
+    "name": "Trustcoin",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "KINE",
+    "name": "Kine Governance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BON",
+    "name": "Bonpay Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NEC",
+    "name": "Nectar",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLAP",
+    "name": "Flapp",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ROT",
+    "name": "RottenToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ADT",
+    "name": "AdToken",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "UOS",
+    "name": "Ultra Token",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "COSM",
+    "name": "Cosmo Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SI",
+    "name": "SIREN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RGT",
+    "name": "Rari Governance Token (RGT)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LQD",
+    "name": "Liquidity.Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BONDLY",
+    "name": "Bondly",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AMPL",
+    "name": "Ampleforth",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "POLK",
+    "name": "Polkamarkets",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ELEC",
+    "name": "ElectrifyAsia",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRV",
+    "name": "Curve DAO Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MEME",
+    "name": "MEME",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ONE",
+    "name": "Harmony",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BCMC1",
+    "name": "BeforeCoinMarketCap",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ESH",
+    "name": "Switch",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HOLD",
+    "name": "HOLD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RET",
+    "name": "RealTract",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "PYLON",
+    "name": "Pylon Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XPR",
+    "name": "Proton",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "OXY",
+    "name": "OxyCoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "VEN",
+    "name": "VeChain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PLU",
+    "name": "Pluton",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GMEE",
+    "name": "GAMEE Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KICK",
+    "name": "Sessia Kicks",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YSR",
+    "name": "Ystar",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KAI",
+    "name": "Kardiachain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOOM",
+    "name": "BOOM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRWNY",
+    "name": "Crowny Token (CRWNY)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BEZOGE",
+    "name": "Bezoge Earth",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "TEN",
+    "name": "Tokenomy Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "COTI",
+    "name": "COTI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SPND",
+    "name": "Spendcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DELTA",
+    "name": "DeltaChain Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MFT",
+    "name": "Mainframe Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BOB",
+    "name": "Bob Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YLD",
+    "name": "Yield",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GTC",
+    "name": "Gitcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STPT",
+    "name": "Standard Tokenization Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SATT",
+    "name": "Smart Advertising Transaction Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IZI",
+    "name": "IZIChain",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "BMC",
+    "name": "Blackmoon Crypto Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "TOC",
+    "name": "TouchCon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DGD",
+    "name": "DigixDAO",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "RMPL",
+    "name": "RMPL",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "BZNT",
+    "name": "BezantToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FCT",
+    "name": "[FCT] FirmaChain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XCUR",
+    "name": "Curate",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "PUX",
+    "name": "PolypuX",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "NEX",
+    "name": "NEX",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "PCH",
+    "name": "POPCHAIN CASH",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DFGL",
+    "name": "DEFI GOLD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZRX",
+    "name": "ZRX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PLAY",
+    "name": "Herocoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "2KEY",
+    "name": "TwoKeyEconomy",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STASH",
+    "name": "BitStash",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ART",
+    "name": "ART Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AT",
+    "name": "ArtFinity",
+    "type": "ERC20",
+    "decimals": 5
+  },
+  {
+    "symbol": "EXO",
+    "name": "EXOLOVER",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZEON",
+    "name": "ZEON",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FRM",
+    "name": "Ferrum Network",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "COIN",
+    "name": "Coin (COIN)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KFC",
+    "name": "Chicken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PIPL",
+    "name": "PiplCoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "GT",
+    "name": "Gatechain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ADH",
+    "name": "AdHive Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QC",
+    "name": "QuickCash",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAY",
+    "name": "DAY",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ULT",
+    "name": "Ultiledger",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HYN",
+    "name": "Hyperion",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UFR",
+    "name": "Upfiring",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MOD",
+    "name": "Modefi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "QKC",
+    "name": "QuarkChain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FUEL",
+    "name": "Fuel Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LIF",
+    "name": "L\u00edf",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ORS",
+    "name": "OriginSport Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ID",
+    "name": "Everest ID (ID)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PRE",
+    "name": "Presearch",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YVS",
+    "name": "YVS.Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CWV",
+    "name": "CWV Chain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZIPT",
+    "name": "Zippie",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ETHP",
+    "name": "ETHPlus",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HEZ",
+    "name": "Hermez Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EVY",
+    "name": "EveryCoin",
+    "type": "ERC20",
+    "decimals": 12
+  },
+  {
+    "symbol": "BOTX",
+    "name": "botXcoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TIX",
+    "name": "Blocktix Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SURF",
+    "name": "SURF",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ENTONE",
+    "name": "ENTONE",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "SHROOM",
+    "name": "Shroom.Finance(SHROOM)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ACH",
+    "name": "Alchemy (ACH)",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DMG",
+    "name": "DMM: Governance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ETHV",
+    "name": "Ethverse Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MESH",
+    "name": "BlockMesh",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AXS",
+    "name": "AXIS Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "HEDG",
+    "name": "HedgeTrade",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BPC",
+    "name": "BloodyPercent",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "BASIC",
+    "name": "BASIC Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DMST",
+    "name": "DMScript",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PAT",
+    "name": "PATRON",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VRA",
+    "name": "VRA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SNC",
+    "name": "SunContract",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRC",
+    "name": "CryCash Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MTL",
+    "name": "Metal",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "WHEN",
+    "name": "WHEN Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FCL",
+    "name": "Fractal",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CGT",
+    "name": "CACHE Gold",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "HOPR",
+    "name": "HOPR Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PDEX",
+    "name": "Polkadex ERC-20 Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFARM",
+    "name": "YFARM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ENJ",
+    "name": "Enjin Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STAR",
+    "name": "Starbase",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KUV",
+    "name": "KUVERIT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ILK",
+    "name": "Inlock",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "TNB",
+    "name": "Time New Bank",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BWF",
+    "name": "Beowulf",
+    "type": "ERC20",
+    "decimals": 5
+  },
+  {
+    "symbol": "DAM",
+    "name": "Datamine",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CMS",
+    "name": "COMSA",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "VISR",
+    "name": "Visor",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YLD",
+    "name": "Yield",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XTK",
+    "name": "XTAKE",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "RCN",
+    "name": "Ripio Credit Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CFT",
+    "name": "Coin Fella Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LET",
+    "name": "LinkEye Token",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "CTCN",
+    "name": "Contracoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZT",
+    "name": "ZBG Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REEF",
+    "name": "Reef",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "METM",
+    "name": "MetaMorph",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OGO",
+    "name": "Origo",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RNT",
+    "name": "OneRoot Network Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NANJ",
+    "name": "NANJCOIN",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "DCC",
+    "name": "Distributed Credit Chain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SAITO",
+    "name": "SAITO Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DADI",
+    "name": "DADI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ELAMA",
+    "name": "ELA Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TOS",
+    "name": "ThingsOpreatingSystem",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DDIM",
+    "name": "DuckDaoDime",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FOXT",
+    "name": "Fox Trading",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LCT",
+    "name": "Light Coin Exchange Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ACDC",
+    "name": "VOLT",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAFI",
+    "name": "DAFI Token (DAFI)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RARI",
+    "name": "Rarible",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SNET",
+    "name": "Snetwork",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "FARM",
+    "name": "Harvest Reward Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TOKO",
+    "name": "TOKO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ANT",
+    "name": "Aragon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DUCATO",
+    "name": "DUCATO Protocol Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DRC",
+    "name": "Digital Reserve Currency",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "YFII",
+    "name": "YFII",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DXD",
+    "name": "DXD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RFOX",
+    "name": "RedFOX Labs (RFOX)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TBC",
+    "name": "TeraBlock Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ALPHA",
+    "name": "Alpha Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "JAR",
+    "name": "Jarvis+ Coins",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GMC",
+    "name": "Gamma Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LTX",
+    "name": "Lattice Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MTA",
+    "name": "Meta",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MET",
+    "name": "Metronome",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SENT",
+    "name": "SENTinel",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "UST",
+    "name": "UST Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UTU",
+    "name": "UTU Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HPT",
+    "name": "Huobi Pool Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PC",
+    "name": "PromotionCoin",
+    "type": "ERC20",
+    "decimals": 5
+  },
+  {
+    "symbol": "EKO",
+    "name": "EchoLink",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GNT",
+    "name": "Golem",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STA",
+    "name": "Statera",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BAS",
+    "name": "Basis Share",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TFL",
+    "name": "TrueFlip",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "INXT",
+    "name": "Internxt",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "KGC",
+    "name": "Krypton",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LC4",
+    "name": "LEOcoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "RAK",
+    "name": "RAK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NOIA",
+    "name": "Syntropy",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ARA",
+    "name": "Ara Token (ARA)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ELY",
+    "name": "Elycoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AIDUS",
+    "name": "AIDUS TOKEN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ETGP",
+    "name": "Ethereum Gold Project",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BCHBEAR",
+    "name": "3X Short Bitcoin Cash Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRAC",
+    "name": "Trace Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TKN",
+    "name": "Monolith TKN",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CWS",
+    "name": "Crowns",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AWC",
+    "name": "Atomic Wallet Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "TRU",
+    "name": "TERASU",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PLF",
+    "name": "PlayFuel",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UNCX",
+    "name": "UniCrypt",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LGCY",
+    "name": "LGCY Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STK",
+    "name": "STK Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IHF",
+    "name": "Invictus Hyperion",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MTH",
+    "name": "Monetha",
+    "type": "ERC20",
+    "decimals": 5
+  },
+  {
+    "symbol": "AT",
+    "name": "AWARE Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CEL",
+    "name": "Celsius",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "HTA",
+    "name": "Health, Technology &amp; Agriculture Token",
+    "type": "ERC20",
+    "decimals": 10
+  },
+  {
+    "symbol": "ORS",
+    "name": "ORS Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DOV",
+    "name": "DOVU",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MINX",
+    "name": "InnovaMinex",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "SNGLS",
+    "name": "SingularDTV",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "FET",
+    "name": "Fetch.ai",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TNS",
+    "name": "Transcodium",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CEEK",
+    "name": "CEEK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TEAM",
+    "name": "Team Finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LOTTO",
+    "name": "Lotto",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VAMP",
+    "name": "Vampire Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "COB",
+    "name": "Cobinhood Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BIX",
+    "name": "BIX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STONK",
+    "name": "STONK",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LIT",
+    "name": "Litentry",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SURE",
+    "name": "inSure",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZPR",
+    "name": "ZperToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EVC",
+    "name": "EventChain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTU",
+    "name": "BTU Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CXO",
+    "name": "CargoX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REL",
+    "name": "Relevant",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BRDG",
+    "name": "Bridge Protocol Token (ERC20)",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SFI",
+    "name": "saffron.finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DRC",
+    "name": "Dracula Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WIKEN",
+    "name": "ProjectWITH",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GRT",
+    "name": "GoldenRatio",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PRIA",
+    "name": "PRIA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZCN",
+    "name": "0chain",
+    "type": "ERC20",
+    "decimals": 10
+  },
+  {
+    "symbol": "PERP",
+    "name": "Perpetual",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IONC",
+    "name": "IONChain Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DML",
+    "name": "DML Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "STMX",
+    "name": "StormX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GYSR",
+    "name": "GYSR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BAL",
+    "name": "Balancer",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HGT",
+    "name": "HelloGold Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "CHSB",
+    "name": "SwissBorg",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "SS",
+    "name": "Sharder",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XTZBEAR",
+    "name": "3X Short Tezos Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SPDR",
+    "name": "SpiderDAO",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MOMA",
+    "name": "MOchi MArket",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EMRX",
+    "name": "Emirex Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "INT",
+    "name": "Intchain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZUSD",
+    "name": "Zytara USD",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "ELF",
+    "name": "aelf",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "COMP",
+    "name": "Compound",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AUC",
+    "name": "Auctus",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRXBULL",
+    "name": "3X Long TRX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DTRC",
+    "name": "Datarius Credit",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TAU",
+    "name": "Lamden Tau",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ETF",
+    "name": "Entherfound",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "XUC",
+    "name": "Exchange Union Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ART",
+    "name": "Aroma Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ERC20",
+    "name": "ERC20",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GTH",
+    "name": "Gather",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRND",
+    "name": "Trendering",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SGT",
+    "name": "snglsDAO Governance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PPP",
+    "name": "PayPie",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PHIBA",
+    "name": "Papa Shiba (PHIBA)",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "EDR",
+    "name": "Endor Protocol Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DGTX",
+    "name": "DigitexFutures",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LYM",
+    "name": "Lympo tokens",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OSA",
+    "name": "OSAToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DIP",
+    "name": "Decentralized Insurance Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SANSHU",
+    "name": "Sanshu Inu",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "GEM",
+    "name": "Gems Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NIOX",
+    "name": "NIOX",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "CONV",
+    "name": "Convergence",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFN",
+    "name": "YFN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GRT",
+    "name": "The Graph",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ORME",
+    "name": "Ormeus Coin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "INO",
+    "name": "Ino Coin",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "YEED",
+    "name": "YGGDRASH",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CRD",
+    "name": "CryptalDash",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WING",
+    "name": "Wings",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ANJ",
+    "name": "Aragon Network Juror",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DHT",
+    "name": "dHEDGE DAO Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CDL",
+    "name": "CoinDeal Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SURE",
+    "name": "inSure",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HMQ",
+    "name": "Humaniq",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ASTRO",
+    "name": "AstroTools",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTMX",
+    "name": "BitMax token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BWX",
+    "name": "Blue Whale eXchange",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DFS",
+    "name": "Fantasy Sports",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BSC",
+    "name": "Benscoin",
+    "type": "ERC20",
+    "decimals": 7
+  },
+  {
+    "symbol": "TOL",
+    "name": "Tolar Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TVK",
+    "name": "Terra Virtua Kolect",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RFR",
+    "name": "Refereum",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "EGG",
+    "name": "EGG Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "WFX",
+    "name": "Webflix Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OMG",
+    "name": "OMG",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LUNA",
+    "name": "LUNA Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BNTY",
+    "name": "Bounty0x Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ONG",
+    "name": "onG",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ECU",
+    "name": "Decurian",
+    "type": "ERC20",
+    "decimals": 3
+  },
+  {
+    "symbol": "YFIVE",
+    "name": "YFIVE.FINANCE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BTR",
+    "name": "Bitrue Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ISR",
+    "name": "Insureum Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CND",
+    "name": "Cindicator Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PPT",
+    "name": "Populous",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "SEN",
+    "name": "Consensus Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FTX",
+    "name": "FintruX Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "OMC",
+    "name": "Ormeus Cash",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SCL",
+    "name": "SOCIAL",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "NXM",
+    "name": "NXM",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DAV",
+    "name": "DAV Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SHR",
+    "name": "ShareToken",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "LBK",
+    "name": "Legal Block Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ENTRC",
+    "name": "EnterCoin",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "EURS",
+    "name": "STASIS EURO",
+    "type": "ERC20",
+    "decimals": 2
+  },
+  {
+    "symbol": "AGS",
+    "name": "Aegis",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "WGP",
+    "name": "W GREEN PAY",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ATCC",
+    "name": "ATCCOIN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HUSD",
+    "name": "HUSD",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ATRI",
+    "name": "ATARI Token",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "EMB",
+    "name": "Emblem (EMB)",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "UTK",
+    "name": "Utrust",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TOP",
+    "name": "TOP Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DEXE",
+    "name": "DEXE",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KNC",
+    "name": "Kyber Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KUE",
+    "name": "Kuende Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "JOB",
+    "name": "Jobchain",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BCP",
+    "name": "BitcashPay Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GS",
+    "name": "GenShards",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PRS",
+    "name": "PressOne Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ZUM",
+    "name": "Zum Token",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "BOX",
+    "name": "BOX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SHIP",
+    "name": "ShipChain SHIP",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "INJ",
+    "name": "Injective Protocol",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PLR",
+    "name": "PILLAR",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TRY",
+    "name": "Trias Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EXRN",
+    "name": "EXRP Network",
+    "type": "ERC20",
+    "decimals": 0
+  },
+  {
+    "symbol": "DEFO",
+    "name": "DefHold",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "GSE",
+    "name": "GSENetwork",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "SUPER",
+    "name": "SuperFarm",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KATANA",
+    "name": "KatanaToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ELA",
+    "name": "ELA on Ethereum",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AAC",
+    "name": "AcuteAngleCoin",
+    "type": "ERC20",
+    "decimals": 5
+  },
+  {
+    "symbol": "BBC",
+    "name": "B2BCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CL",
+    "name": "Coinlancer",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "CAS",
+    "name": "Cashaa",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ESZ",
+    "name": "ESZCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VIBE",
+    "name": "Vibe Coin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EBTC",
+    "name": "eBTC",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "PASS",
+    "name": "Blockpass",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "GOVI",
+    "name": "GOVI",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FNX",
+    "name": "FNX Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFFC",
+    "name": "yffc.finance",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "TYPE",
+    "name": "Typerium",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "MLN",
+    "name": "Melon",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AXIS",
+    "name": "AXIS DeFi",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PERL",
+    "name": "Perlin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "NGM",
+    "name": "e-Money NGM staking token",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "XED",
+    "name": "Exeedme",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "DNA",
+    "name": "EncrypGen",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FLIXX",
+    "name": "Flixx",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "REX",
+    "name": "REX - Real Estate tokens",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "YFBT",
+    "name": "Yearn Finance Bit",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ELD",
+    "name": "ETH.limiteD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ENG",
+    "name": "Enigma",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "FWT",
+    "name": "Freeway Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ICE",
+    "name": "IceToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XGT",
+    "name": "XionGlobal Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BIO",
+    "name": "BioCrypt",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "RLY",
+    "name": "Rally",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RIO",
+    "name": "Realio Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EDU",
+    "name": "EduCoin",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "RUFF",
+    "name": "RUFF",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "UNC",
+    "name": "UNC",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "KCS",
+    "name": "KuCoin Token",
+    "type": "ERC20",
+    "decimals": 6
+  },
+  {
+    "symbol": "DPR",
+    "name": "Deeper Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "EVX",
+    "name": "Everex",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "CHP",
+    "name": "Poker Chips",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MRK",
+    "name": "Mark",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "APIX",
+    "name": "APIX",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BFLY",
+    "name": "Butterfly Protocol Governance Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FRONT",
+    "name": "Frontier",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BLY",
+    "name": "Blocery Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ABL",
+    "name": "Airbloc",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IND",
+    "name": "Indorse Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "XAMP",
+    "name": "Antiample",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "CPC",
+    "name": "CPChain",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HOGE",
+    "name": "HOGE",
+    "type": "ERC20",
+    "decimals": 9
+  },
+  {
+    "symbol": "PROB",
+    "name": "ProBit Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "MCO2",
+    "name": "Moss Carbon Credit",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "1WO",
+    "name": "1World",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "MZG",
+    "name": "MZI GOLD",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BRK",
+    "name": "BRKCOIN",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "HAL",
+    "name": "EHalal",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "AMP",
+    "name": "Amp",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "LUN",
+    "name": "Lunyr Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ESS",
+    "name": "ESSENTIA",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "PROM",
+    "name": "Token Prometeus Network",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "IXT",
+    "name": "iXledger",
+    "type": "ERC20",
+    "decimals": 8
+  },
+  {
+    "symbol": "ZLA",
+    "name": "Zilla Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SKRP",
+    "name": "Skraps",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BET",
+    "name": "BET",
+    "type": "ERC20",
+    "decimals": 4
+  },
+  {
+    "symbol": "LBA",
+    "name": "LibraToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "SNOW",
+    "name": "SnowSwap",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "VIDT",
+    "name": "VIDT Datalink",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ART",
+    "name": "Maecenas ART Token",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "BITX",
+    "name": "BitScreenerToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "ORBS",
+    "name": "Orbs",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "URAC",
+    "name": "URACToken",
+    "type": "ERC20",
+    "decimals": 18
+  },
+  {
+    "symbol": "FSW",
+    "name": "FalconSwap Token",
+    "type": "ERC20",
+    "decimals": 18
+  }
+]
